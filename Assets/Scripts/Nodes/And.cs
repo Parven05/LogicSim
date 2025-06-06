@@ -2,6 +2,7 @@ namespace MaximovInk
 {
     public class And : Node
     {
+
         public override void OnCircuitChange()
         {
             base.OnCircuitChange();
