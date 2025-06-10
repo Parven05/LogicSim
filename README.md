@@ -1,3 +1,4 @@
 # LogicSim
+Simple Logic Gate Simulator
 
-![image](https://github.com/user-attachments/assets/151ee06f-8b04-4ebb-abb5-27faec752734)
+[![Banner](https://github.com/user-attachments/assets/c1455b4b-2e05-4497-858b-13f16d08295e)](https://parven.itch.io/logic-sim)
