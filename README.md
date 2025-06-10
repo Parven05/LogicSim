@@ -1,4 +1,3 @@
 # LogicSim
 Simple Logic Gate Simulator
-
-![image](https://github.com/user-attachments/assets/151ee06f-8b04-4ebb-abb5-27faec752734)
+<iframe frameborder="0" src="https://itch.io/embed/3632261?bg_color=000000&amp;fg_color=ffffff&amp;link_color=5b3be4&amp;border_color=333333" width="552" height="167"><a href="https://parven.itch.io/logic-sim">LogicSim by Parven</a></iframe>
