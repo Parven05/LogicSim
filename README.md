@@ -19,4 +19,4 @@ Features:
 ## **Official Release:**
 Made for Web
 
-[![Itch_Banner](https://github.com/user-attachments/assets/c1455b4b-2e05-4497-858b-13f16d08295e)](https://parven.itch.io/logic-sim)
+[![Itch_Banner](https://github.com/user-attachments/assets/13fecf6b-cca1-44b0-8b63-d69e96809f8b)](https://parven.itch.io/logic-sim)
