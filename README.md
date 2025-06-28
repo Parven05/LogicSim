@@ -5,7 +5,6 @@
 ## **Simple Logic Gate Simulator**
 ![gate](https://github.com/user-attachments/assets/09a52a72-5c4b-48fb-ac20-b2d8792ae1f8)
 
-## **Introduction:**
 LogicSim is a simple logic gate simulator is developed using Unity and is designed for educational purposes, helping users understand the basics of digital logic circuits.
 
 Features:
