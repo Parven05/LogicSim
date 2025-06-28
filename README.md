@@ -20,3 +20,6 @@ Features:
 Made for Web
 
 [![Itch_Banner](https://github.com/user-attachments/assets/13fecf6b-cca1-44b0-8b63-d69e96809f8b)](https://parven.itch.io/logic-sim)
+
+## **Source:**
+https://github.com/MaximovInk/NodeLogic
